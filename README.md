@@ -1,5 +1,5 @@
 # face-tracking
-
+作为vue研究项目基础架构
 ## Project setup
 ```
 yarn install
